@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from scipy.optimize import __minimize
+from scipy.optimize import minimize as __minimize
 
 # Estimation of the empirical cdf
 def __EmpiricalCDF(bins,data):
