@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import numpy as __np
 import scipy.stats as __stats
 
 # distributions for use in JSD function as the theoretical (assumed) distributions
