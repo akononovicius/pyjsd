@@ -1,4 +1,4 @@
-# PyJSD
+# PyJSD: Python implementation of the Jensen-Shannon divergence
 
 This Python module implements estimation of the JSD scores for the observed
 data assuming some distribution. This module was developed when performing
@@ -8,6 +8,11 @@ Kononovicius (link will be added at a later time).
 Feel free to reuse the code or modify it. We would like to encourage you to
 reference our paper, if it would be appropriate, but we surely do not require
 you to do it.
+
+If you want to reference the repository itself, you can do that in the
+following manner:
+* A. Kononovicius and M. Levene. *PyJSD: Python implementation of the
+Jensen-Shannon divergence*. http://github.com/akononovicius/pyjsd.
 
 # How to use the module
  
