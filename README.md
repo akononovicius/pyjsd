@@ -3,7 +3,8 @@
 This Python module implements estimation of the JSD scores for the observed
 data assuming some distribution. This module was developed when performing
 empirical analysis for the forthcomming paper by Mark Levene and Aleksejus
-Kononovicius (link will be added at a later time).
+Kononovicius (draft of the paper is available on arXiv: [1809.11052 [stat.ME]]
+(https://arxiv.org/abs/1809.11052)).
 
 Feel free to reuse the code or modify it. We would like to encourage you to
 reference our paper, if it would be appropriate, but we surely do not require
